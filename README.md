@@ -4,7 +4,7 @@
 
 # cold-storage-tools
 
-[![Visit Xellox.io](https://img.shields.io/badge/Visit-Xellox.io-blue?style=for-the-badge&logo=bitcoin)](https://xellox.io)
+[![Visit Xellox.io](https://img.shields.io/badge/Visit-Xellox.io-black?style=for-the-badge&logo=bitcoin)](https://xellox.io)
 > Open-source tools recommended by [Xellox](https://xellox.io) for secure Bitcoin storage.  
 > Focused on cold wallets, seed phrase safety, and multisig setups.
 
