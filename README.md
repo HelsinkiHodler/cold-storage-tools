@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/xellox-tools-for-secure-bitcoin-usage-1200x630.png" alt="Xellox – Tools for Secure Bitcoin Usage" width="600"/>
+  <img src="https://github.com/HelsinkiHodler/cold-storage-tools/blob/main/xellox-tools-for-secure-bitcoin-usage-1200x630.png?raw=true" alt="Xellox – Tools for Secure Bitcoin Usage" width="260">
 </p>
 
 # cold-storage-tools
