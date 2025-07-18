@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/xellox-tools-for-secure-bitcoin-usage-1200x630.png" alt="Xellox – Tools for Secure Bitcoin Usage" width="600"/>
+</p>
+
 # cold-storage-tools
 
 [![Visit Xellox.io](https://img.shields.io/badge/Visit-Xellox.io-blue?style=for-the-badge&logo=bitcoin)](https://xellox.io)
